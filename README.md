@@ -1,3 +1,3 @@
 # gh-pages-demo
 
-Use the 'gh-pages' branch.
+URl is http://kshortwindham.github.io/gh-pages-demo
